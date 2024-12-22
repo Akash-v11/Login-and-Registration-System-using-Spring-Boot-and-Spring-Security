@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: akash
+Build-Jdk: 22.0.1
+Implementation-Title: Login and Registration
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: security
+Implementation-URL: https://spring.io/projects/spring-boot/LoginAndRegis
+ tration
+Created-By: Maven Integration for Eclipse
+
